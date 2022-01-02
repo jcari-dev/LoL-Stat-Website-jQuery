@@ -24,7 +24,7 @@ For my first project I attempted to create a League of Legends stat website usin
 ![enter image description here](https://cdn.discordapp.com/attachments/303372529077321739/830515982124056586/Screen_Shot_2021-04-10_at_2.51.06_PM.png)
 
 
-That's pretty much all for now, I will continue to develop this. Thanks,
+
 
 Roadmap:
 Get champion ally and enemy tips on hover.
@@ -32,5 +32,5 @@ Organize the matches in other form.
 Clean the way that information is appended.
 Add Graphs in regards to the information.
 Add the champion and name of the other 9 participants.
-
+## That's pretty much all for now, I will continue to develop this. Thanks,
 -Jorge
